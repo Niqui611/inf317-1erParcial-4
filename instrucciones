@@ -1,0 +1,2 @@
+gcc -o problema_4 -fopenmp problema_4.c
+./problema_4
